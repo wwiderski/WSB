@@ -4,30 +4,24 @@ public class MyProgram
 {
     public static void Main(string[] args)
     {
-        double a, b, c, d, x, y;
+        double a, b;
 
-        Console.WriteLine("podaj A");
+        Console.WriteLine("podaj a");
         a = inputValue();
         Console.WriteLine("Podaj b");
         b = inputValue();
-        Console.WriteLine("Podaj C");
-        c = inputValue();
-        Console.WriteLine("podaj D");
-        d = inputValue();
-        if (b == 0 || d == 0)
+        if (a < b)
         {
-            Console.WriteLine("brak rozwiązań");
+            Console.WriteLine("Wieksza jest liczba b:");
+            Console.WriteLine(b);
         }
         else
         {
-            y = b * d;
-            x = a * d + b * c;
-
-            Console.WriteLine("Licznik: " + x);
-            Console.WriteLine("mianownik: " + y);
-
+            Console.WriteLine("Wieksza jest liczba a:");
+            Console.WriteLine(a);
         }
     }
+
     // .NET can only read single characters or entire lines from the
     // console. The following function safely reads a double value.
     private static double inputValue()
