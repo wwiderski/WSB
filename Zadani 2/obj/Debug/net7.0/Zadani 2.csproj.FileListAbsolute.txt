@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\bin\Debug\net7.0\Zadani 2.exe
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\bin\Debug\net7.0\Zadani 2.deps.json
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\bin\Debug\net7.0\Zadani 2.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\bin\Debug\net7.0\Zadani 2.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\bin\Debug\net7.0\Zadani 2.pdb
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\obj\Debug\net7.0\Zadani 2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\obj\Debug\net7.0\Zadani 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\obj\Debug\net7.0\Zadani 2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\obj\Debug\net7.0\Zadani 2.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\obj\Debug\net7.0\Zadani 2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\obj\Debug\net7.0\Zadani 2.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\obj\Debug\net7.0\refint\Zadani 2.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\obj\Debug\net7.0\Zadani 2.pdb
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\obj\Debug\net7.0\Zadani 2.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Zadani 2\obj\Debug\net7.0\ref\Zadani 2.dll
