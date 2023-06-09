@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\GitHub\WSB\Zadania 8\bin\Debug\Zadania 8.exe.config
+C:\Users\Administrator\Documents\GitHub\WSB\Zadania 8\bin\Debug\Zadania 8.exe
+C:\Users\Administrator\Documents\GitHub\WSB\Zadania 8\bin\Debug\Zadania 8.pdb
+C:\Users\Administrator\Documents\GitHub\WSB\Zadania 8\obj\Debug\Zadania 8.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Zadania 8\obj\Debug\Zadania 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Zadania 8\obj\Debug\Zadania 8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Zadania 8\obj\Debug\Zadania 8.exe
+C:\Users\Administrator\Documents\GitHub\WSB\Zadania 8\obj\Debug\Zadania 8.pdb
