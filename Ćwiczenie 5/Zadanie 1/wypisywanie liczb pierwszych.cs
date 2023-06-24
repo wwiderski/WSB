@@ -7,11 +7,11 @@ class Program
         Console.Write("Podaj liczbę n: ");
         int n = int.Parse(Console.ReadLine());
 
-        int liczba = 2; // Startujemy od pierwszej liczby pierwszej
+        int liczba = 2;
 
         while (n > 0)
         {
-            if (CzyLiczbaPierwsza(liczba))
+            if (a(liczba))
             {
                 Console.WriteLine(liczba);
                 n--;
@@ -20,7 +20,7 @@ class Program
         }
     }
 
-    static bool CzyLiczbaPierwsza(int liczba)
+    static bool a(int liczba)
     {
         if (liczba < 2)
             return false;
