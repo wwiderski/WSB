@@ -8,13 +8,13 @@ class Program
         int[] tablica = new int[rozmiar_tablicy];
         Random random = new Random();
 
-        // Wypełnienie tablicy losowymi wartościami
+      
         for (int i = 0; i < rozmiar_tablicy; i++)
         {
-            tablica[i] = random.Next(100); // zakres losowych wartości od 0 do 99
+            tablica[i] = random.Next(100); 
         }
 
-        // Wypisanie zawartości tablicy od tyłu
+       
         for (int i = rozmiar_tablicy - 1; i >= 0; i--)
         {
             Console.WriteLine(tablica[i]);
