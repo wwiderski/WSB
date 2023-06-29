@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\obj\Debug\net7.0\Struktura do opisu programu.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\obj\Debug\net7.0\Struktura do opisu programu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\obj\Debug\net7.0\Struktura do opisu programu.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\obj\Debug\net7.0\Struktura do opisu programu.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\obj\Debug\net7.0\Struktura do opisu programu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\bin\Debug\net7.0\Struktura do opisu programu.exe
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\bin\Debug\net7.0\Struktura do opisu programu.deps.json
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\bin\Debug\net7.0\Struktura do opisu programu.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\bin\Debug\net7.0\Struktura do opisu programu.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\bin\Debug\net7.0\Struktura do opisu programu.pdb
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\obj\Debug\net7.0\Struktura do opisu programu.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\obj\Debug\net7.0\refint\Struktura do opisu programu.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\obj\Debug\net7.0\Struktura do opisu programu.pdb
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\obj\Debug\net7.0\Struktura do opisu programu.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 8\Struktura do opisu programu\obj\Debug\net7.0\ref\Struktura do opisu programu.dll
