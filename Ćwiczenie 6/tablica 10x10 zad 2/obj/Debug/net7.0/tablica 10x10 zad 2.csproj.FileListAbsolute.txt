@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\bin\Debug\net7.0\tablica 10x10 zad 2.exe
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\bin\Debug\net7.0\tablica 10x10 zad 2.deps.json
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\bin\Debug\net7.0\tablica 10x10 zad 2.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\bin\Debug\net7.0\tablica 10x10 zad 2.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\bin\Debug\net7.0\tablica 10x10 zad 2.pdb
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\obj\Debug\net7.0\tablica 10x10 zad 2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\obj\Debug\net7.0\tablica 10x10 zad 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\obj\Debug\net7.0\tablica 10x10 zad 2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\obj\Debug\net7.0\tablica 10x10 zad 2.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\obj\Debug\net7.0\tablica 10x10 zad 2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\obj\Debug\net7.0\tablica 10x10 zad 2.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\obj\Debug\net7.0\refint\tablica 10x10 zad 2.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\obj\Debug\net7.0\tablica 10x10 zad 2.pdb
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\obj\Debug\net7.0\tablica 10x10 zad 2.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablica 10x10 zad 2\obj\Debug\net7.0\ref\tablica 10x10 zad 2.dll

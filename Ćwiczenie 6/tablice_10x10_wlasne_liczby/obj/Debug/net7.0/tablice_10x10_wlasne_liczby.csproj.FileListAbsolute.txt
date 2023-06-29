@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\bin\Debug\net7.0\tablice_10x10_wlasne_liczby.exe
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\bin\Debug\net7.0\tablice_10x10_wlasne_liczby.deps.json
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\bin\Debug\net7.0\tablice_10x10_wlasne_liczby.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\bin\Debug\net7.0\tablice_10x10_wlasne_liczby.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\bin\Debug\net7.0\tablice_10x10_wlasne_liczby.pdb
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\obj\Debug\net7.0\tablice_10x10_wlasne_liczby.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\obj\Debug\net7.0\tablice_10x10_wlasne_liczby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\obj\Debug\net7.0\tablice_10x10_wlasne_liczby.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\obj\Debug\net7.0\tablice_10x10_wlasne_liczby.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\obj\Debug\net7.0\tablice_10x10_wlasne_liczby.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\obj\Debug\net7.0\tablice_10x10_wlasne_liczby.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\obj\Debug\net7.0\refint\tablice_10x10_wlasne_liczby.dll
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\obj\Debug\net7.0\tablice_10x10_wlasne_liczby.pdb
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\obj\Debug\net7.0\tablice_10x10_wlasne_liczby.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\WSB\Ćwiczenie 6\tablice_10x10_wlasne_liczby\obj\Debug\net7.0\ref\tablice_10x10_wlasne_liczby.dll
